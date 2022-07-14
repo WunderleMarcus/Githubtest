@@ -1,4 +1,4 @@
-class HelloGit { 
+class byebyeGit { 
     public static void main (String[] args) 
-    {System.out.println ("HelloGit");}
+    {System.out.println ("byebyeGit");}
 }
